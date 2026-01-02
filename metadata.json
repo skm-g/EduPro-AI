@@ -1,0 +1,8 @@
+{
+  "name": "EduPro AI - Advanced Learning Management System",
+  "description": "A high-performance, multi-instructor LMS featuring AI-driven course generation, comprehensive dashboards for Admins, Instructors, and Students, and a modern, responsive UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
